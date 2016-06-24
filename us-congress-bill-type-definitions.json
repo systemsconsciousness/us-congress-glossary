@@ -1,6 +1,6 @@
 {
-  "title": "US Congress Bill Type Definitions",
-  "version": 1.0,
+  "title": "US Congress Bill Type Glossary",
+  "version": 1,
   "releaseDate": "2016-06-24T00:00:00.000Z",
   "author": "Dean Haddock",
   "organization": "CriticalMath.org",
@@ -49,7 +49,7 @@
       "chamber": ["Senate"]
     },
     "sjres": {
-      "title": "Senate Joint Resolution"
+      "title": "Senate Joint Resolution",
       "short_title": "S.J.Res.",
       "description": "Joint resolutions are designated H.J. Res. or S.J. Res. and are followed by a number. Like a bill, a joint resolution requires the approval of both Chambers in identical form and the president’s signature to become law. There is no real difference between a joint resolution and a bill. The joint resolution is generally used for continuing or emergency appropriations. Joint resolutions are also used for proposing amendments to the Constitution; such resolutions must be approved by two-thirds of both Chambers and three-fourths of the states, but do not require the president’s signature to become part of the Constitution.",
       "chamber": ["Senate"]
