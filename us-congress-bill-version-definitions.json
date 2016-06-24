@@ -1,1 +1,20 @@
-hello world
+{
+  "title": "US Congress Text Version Glossary",
+  "version": 1,
+  "releaseDate": "2016-06-24T00:00:00.000Z",
+  "author": "Dean Haddock",
+  "organization": "CriticalMath.org",
+  "source": "gpo.gov",
+  "bill_version": {
+    "as": {
+      "title": "Amendment Ordered to be Printed Senate",
+      "definition": "An alternate name for this version is Senate Amendment Ordered to be Printed. This version contains an amendment that has been ordered to be printed.",
+      "chamber": "Senate"
+    },
+    "ash": {
+      "title": "Additional Sponsors House",
+      "definition": "An alternate name for this version is House Sponsors or Cosponsors Added or Withdrawn. This version is used to add or delete cosponsor names. When used, it most often shows numerous cosponsors being added.",
+      "chamber": "House"
+    }
+  }
+}
