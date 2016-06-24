@@ -1,0 +1,58 @@
+{
+  "title": "US Congress Bill Type Definitions",
+  "version": 1.0,
+  "releaseDate": "2016-06-24T00:00:00.000Z",
+  "author": "Dean Haddock",
+  "organization": "CriticalMath.org",
+  "source": "senate.gov",
+  "bill_type": {
+    "hconres": {
+      "title": "House Concurrent Resolution",
+      "short_title": "H.Con.Res.",
+      "description": "Concurrent resolutions, which are designated H.Con. Res. or S.Con. Res., and followed by a number, must be passed in the same form by both houses, but they do not require the signature of the president and do not have the force of law. Concurrent resolutions are generally used to make or amend rules that apply to both houses. They are also used to express the sentiments of both of the houses. For example, a concurrent resolution is used to set the time of Congress’ adjournment. It may also be used by Congress to convey congratulations to another country on the anniversary of its independence. Another important use of the concurrent resolution is for the annual congressional budget resolution, which sets Congress’ revenue and spending goals for the upcoming fiscal year. ",
+      "chamber": ["House"]
+    },
+    "hjres": {
+      "title": "House Joint Resolution",
+      "short_title": "H.J.Res.",
+      "description": "Joint resolutions are designated H.J. Res. or S.J. Res. and are followed by a number. Like a bill, a joint resolution requires the approval of both Chambers in identical form and the president’s signature to become law. There is no real difference between a joint resolution and a bill. The joint resolution is generally used for continuing or emergency appropriations. Joint resolutions are also used for proposing amendments to the Constitution; such resolutions must be approved by two-thirds of both Chambers and three-fourths of the states, but do not require the president’s signature to become part of the Constitution.",
+      "chamber": ["House"]
+    },
+    "hres": {
+      "title": "House Resolution",
+      "short_title": "H.Res.",
+      "description": "Simple resolutions are designated H.Res. and S.Res., followed by a number. A simple resolution addresses matters entirely within the prerogative of one house, such as revising the standing rules of one Chamber. Simple resolutions are also used to express the sentiments of a single house, such as offering condolences to the family of a deceased member of Congress, or it may give “advice” on foreign policy or other executive business. Simple resolutions do not require the approval of the other house nor the signature of the president, and they do not have the force of law.",
+      "chamber": ["House"]
+    },
+    "hr": {
+      "title": "House Bill",
+      "short_title": "H.R.",
+      "description": "Bills are prefixed with H.R. when introduced in the House and S. when introduced in the Senate, and they are followed by a number based on the order in which they are introduced. The vast majority of legislative proposals are in the form of bills. Bills deal with domestic and foreign issues and programs, and they also appropriate money to various government agencies and programs. Public bills pertain to matters that affect the general public or classes of citizens, while private bills affect just certain individuals and organizations. A private bill provides benefits to specified individuals (including corporate bodies). Individuals sometimes request relief through private legislation when administrative or legal remedies are exhausted. Many private bills deal with immigration–granting citizenship or permanent residency. Private bills may also be introduced for individuals who have claims against the government, veterans benefits claims, claims for military decorations, or taxation problems. The title of a private bill usually begins with the phrase, “For the relief of. . . .” If a private bill is passed in identical form by both houses of Congress and is signed by the president, it becomes a private law. When bills are passed in identical form by both Chambers of Congress and signed by the president (or repassed by Congress over a presidential veto), they become laws.",
+      "chamber": ["House"]
+    },
+    "sconres": {
+      "title": "Senate Concurrent Resolution",
+      "short_title": "S.Con.Res.",
+      "description": "Concurrent resolutions, which are designated H.Con. Res. or S.Con. Res., and followed by a number, must be passed in the same form by both houses, but they do not require the signature of the president and do not have the force of law. Concurrent resolutions are generally used to make or amend rules that apply to both houses. They are also used to express the sentiments of both of the houses. For example, a concurrent resolution is used to set the time of Congress’ adjournment. It may also be used by Congress to convey congratulations to another country on the anniversary of its independence. Another important use of the concurrent resolution is for the annual congressional budget resolution, which sets Congress’ revenue and spending goals for the upcoming fiscal year.",
+      "chamber": ["Senate"]
+    },
+    "sres": {
+      "title": "Senate Resolution",
+      "short_title": "S.Res.",
+      "description": "Simple resolutions are designated H.Res. and S.Res., followed by a number. A simple resolution addresses matters entirely within the prerogative of one house, such as revising the standing rules of one Chamber. Simple resolutions are also used to express the sentiments of a single house, such as offering condolences to the family of a deceased member of Congress, or it may give “advice” on foreign policy or other executive business. Simple resolutions do not require the approval of the other house nor the signature of the president, and they do not have the force of law.",
+      "chamber": ["Senate"]
+    },
+    "s": {
+      "title": "Senate Bill",
+      "short_title": "S.",
+      "description": "Bills are prefixed with H.R. when introduced in the House and S. when introduced in the Senate, and they are followed by a number based on the order in which they are introduced. The vast majority of legislative proposals are in the form of bills. Bills deal with domestic and foreign issues and programs, and they also appropriate money to various government agencies and programs. Public bills pertain to matters that affect the general public or classes of citizens, while private bills affect just certain individuals and organizations. A private bill provides benefits to specified individuals (including corporate bodies). Individuals sometimes request relief through private legislation when administrative or legal remedies are exhausted. Many private bills deal with immigration–granting citizenship or permanent residency. Private bills may also be introduced for individuals who have claims against the government, veterans benefits claims, claims for military decorations, or taxation problems. The title of a private bill usually begins with the phrase, “For the relief of. . . .” If a private bill is passed in identical form by both houses of Congress and is signed by the president, it becomes a private law. When bills are passed in identical form by both Chambers of Congress and signed by the president (or repassed by Congress over a presidential veto), they become laws.",
+      "chamber": ["Senate"]
+    },
+    "sjres": {
+      "title": "Senate Joint Resolution"
+      "short_title": "S.J.Res.",
+      "description": "Joint resolutions are designated H.J. Res. or S.J. Res. and are followed by a number. Like a bill, a joint resolution requires the approval of both Chambers in identical form and the president’s signature to become law. There is no real difference between a joint resolution and a bill. The joint resolution is generally used for continuing or emergency appropriations. Joint resolutions are also used for proposing amendments to the Constitution; such resolutions must be approved by two-thirds of both Chambers and three-fourths of the states, but do not require the president’s signature to become part of the Constitution.",
+      "chamber": ["Senate"]
+    }
+  }
+}
